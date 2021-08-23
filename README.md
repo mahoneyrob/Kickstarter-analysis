@@ -1,2 +1,2 @@
 # Kickstarter-analysis
-analysis on kickstarter
+M1 classwork
